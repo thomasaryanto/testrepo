@@ -1,0 +1,13 @@
+[main]
+url = https://widget.loket.com/widget/7cf716742138a80301ca68de995a2dfb
+
+[id]
+MYU = ticket[105390][240136]
+CAT1 = ticket[105390][240138]
+CAT2 = ticket[105390][240138]
+CAT3 = ticket[105390][240138]
+CAT4 = ticket[105390][240138]
+CAT5 = ticket[105390][240138]
+CAT6 = ticket[105390][240138]
+CAT7 = ticket[105390][240138]
+CAT8 = ticket[105390][240138]
